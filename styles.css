@@ -9,8 +9,8 @@ h1, p {
 } 
 
 .flag {
-    width: 800px;
-    height: 400px;
+    width: 200px;
+    height: 100px;
     border: 1px solid #000000;
     position: absolute;
     top: 0;
@@ -37,9 +37,9 @@ h1, p {
 }
 
 .red {
-    border-top: 199.4px solid transparent;
-    border-bottom: 199.4px solid transparent;
-    border-left: 200px solid red;
+    border-top: 49.2px solid transparent;
+    border-bottom: 49.2px solid transparent;
+    border-left: 50px solid red;
     position: absolute;
     left: 0;
     z-index: 999;
