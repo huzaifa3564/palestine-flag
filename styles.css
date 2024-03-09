@@ -8,8 +8,8 @@ h1, p {
 } 
 
 .flag {
-    width: 200px;
-    height: 100px;
+    width: 800px;
+    height: 400px;
     border: 1px solid #000000;
     position: absolute;
     top: 0;
@@ -21,7 +21,7 @@ h1, p {
 
 .black {
     width: 100%;
-    height: 33.3px;
+    height: 33.3%;
     position: absolute;
     top: 0;
     background-color: #000000;
@@ -29,16 +29,16 @@ h1, p {
 
 .green {
     width: 100%;
-    height: 33.3px;
+    height: 33.3%;
     position: absolute;
     bottom: 0;
     background-color: green;
 }
 
 .red {
-    border-top: 49.2px solid transparent;
-    border-bottom: 49.2px solid transparent;
-    border-left: 60px solid red;
+    border-top: 199.4px solid transparent;
+    border-bottom: 199.4px solid transparent;
+    border-left: 200px solid red;
     position: absolute;
     left: 0;
     z-index: 999;
